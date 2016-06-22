@@ -1,6 +1,0 @@
-c:\users\fmorin\documents\visual studio 2013\Projects\AppliTesting\AppliTesting\bin\Debug\AppliTesting.exe.config
-c:\users\fmorin\documents\visual studio 2013\Projects\AppliTesting\AppliTesting\bin\Debug\AppliTesting.exe
-c:\users\fmorin\documents\visual studio 2013\Projects\AppliTesting\AppliTesting\bin\Debug\AppliTesting.pdb
-c:\users\fmorin\documents\visual studio 2013\Projects\AppliTesting\AppliTesting\obj\Debug\AppliTesting.csprojResolveAssemblyReference.cache
-c:\users\fmorin\documents\visual studio 2013\Projects\AppliTesting\AppliTesting\obj\Debug\AppliTesting.exe
-c:\users\fmorin\documents\visual studio 2013\Projects\AppliTesting\AppliTesting\obj\Debug\AppliTesting.pdb
